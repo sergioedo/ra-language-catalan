@@ -1,0 +1,22 @@
+{
+    "name": "ra-language-catalan",
+    "version": "2.3.1",
+    "description": "Catalan messages for react-admin, the frontend framework for building admin applications on top of REST/GraphQL services",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sergioedo/ra-language-catalan.git"
+    },
+    "keywords": [
+        "react",
+        "react-admin",
+        "react-admin",
+        "translation"
+    ],
+    "author": "Sergio Edo",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/sergioedo/ra-language-catalan/issues"
+    },
+    "homepage": "https://github.com/sergioedo/ra-language-catalan#readme"
+}
