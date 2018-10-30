@@ -92,7 +92,7 @@ module.exports = {
             username: 'Usuari',
             password: 'Contrasenya',
             sign_in: 'Iniciar sessió',
-            sign_in_error: 'Ha fallat l'autenticació, si us plau torni a provar-ho',
+            sign_in_error: "Ha fallat l'autenticació, si us plau torni a provar-ho",
             logout: 'Tancar sessió',
         },
         notification: {
@@ -114,7 +114,7 @@ module.exports = {
             maxValue: 'El valor màxim és %{max}',
             number: 'Ha de ser un valor numèric',
             email: 'Ha de ser una adreça electrònica vàlida',
-            oneOf: 'Ha de ser un d'aquests valors: %{options}',
+            oneOf: "Ha de ser un d'aquests valors: %{options}",
             regex: 'Ha de complir el format (expressió regular): %{pattern}',
         },
     },
