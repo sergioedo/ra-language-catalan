@@ -8,6 +8,7 @@ module.exports = {
             cancel: 'Cancel·lar',
             clear_input_value: 'Netejar valor',
             clone: 'Clonar',
+            confirm: 'Confirmar',
             create: 'Crear',
             delete: 'Eliminar',
             edit: 'Editar',
