@@ -8,6 +8,7 @@ module.exports = {
             cancel: 'Cancel·lar',
             clear_input_value: 'Netejar valor',
             clone: 'Clonar',
+            confirm: 'Confirmar',
             create: 'Crear',
             delete: 'Eliminar',
             edit: 'Editar',
@@ -74,6 +75,7 @@ module.exports = {
             not_found:
                 'O bé ha escrit una URL incorrecta, o bé ha navegat a un enllaç erroni.',
             yes: 'Sí',
+            unsaved_changes: 'Tens canvis pendents. Vols abandonar la pàgina?',
         },
         navigation: {
             no_results: 'Sense resultats',
